@@ -12,9 +12,11 @@ Link : https://github.com/vikasdo/Django-qeats
  
 
 ## CRD OPERATION ON A MULTITHREADED KEY VALUE STORE : 
+```
+Created a key value db like redis with timeout and other features and a robust db which can work by using multiple threads at one time. 
 
  Link : https://github.com/vikasdo/DbStore 
- 
+ ```
 ## Rest api With Authorization and mongodb: 
 
  
