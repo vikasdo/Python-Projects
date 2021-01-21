@@ -1,5 +1,20 @@
 # Python-Projects
 
+
+## QEATS:  
+```
+Fashioned a Django app ‘Qeats’ as a part of crio development with the help of my mentors .This Restaurant App helps restaurant owners and managers in managing their menu (items, availability, prices), order preparation time, order status, order history, and order notifications.  
+
+Link : https://github.com/vikasdo/Django-qeats  
+
+  ```
+
+ 
+
+## CRD OPERATION ON A MULTITHREADED KEY VALUE STORE : 
+
+ Link : https://github.com/vikasdo/DbStore 
+ 
 ## Rest api With Authorization and mongodb: 
 
  
@@ -31,3 +46,5 @@ There should be 3 endpoints:
 3. And one last endpoint where the user can submit the client_id received in second endpoint and get the saved data. 
 Endpoints second and third(as mentioned above) are only be accessible via the Bearer token. And the First request should only be accessible via a pre-shared secret 
 ```
+
+
