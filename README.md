@@ -4,11 +4,10 @@
 ## QEATS:  
 ```
 Fashioned a Django app ‘Qeats’ as a part of crio development with the help of my mentors .This Restaurant App helps restaurant owners and managers in managing their menu (items, availability, prices), order preparation time, order status, order history, and order notifications.  
-
+```
 Link : https://github.com/vikasdo/Django-qeats  
 
-  ```
-
+ 
  
 
 ## CRD OPERATION ON A MULTITHREADED KEY VALUE STORE : 
