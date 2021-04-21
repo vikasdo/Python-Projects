@@ -15,7 +15,7 @@ Created a key value db like redis with timeout and other features and a robust d
 
  Link : https://github.com/vikasdo/DbStore 
  
-## Rest api With Authorization and mongodb: 
+## Rest api With Authorization(JWT) and mongodb: 
 
  
 
